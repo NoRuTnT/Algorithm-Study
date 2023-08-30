@@ -12,13 +12,13 @@
  <tr>
     <td align="center"><a href="https://github.com/MaSeongJin"><img src="https://avatars.githubusercontent.com/MaSeongJin" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/tykim97"><img src="https://avatars.githubusercontent.com/tykim97" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/HaeGwangS"><img src="https://avatars.githubusercontent.com/HaeGwangS" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hks0704"><img src="https://avatars.githubusercontent.com/hks0704" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/NoRuTnT"><img src="https://avatars.githubusercontent.com/NoRuTnT" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MaSeongJin"><b>MaSeongJin</b></a></td>
     <td align="center"><a href="https://github.com/tykim97"><b>kimTaeYune</b></a></td>
-    <td align="center"><a href="https://github.com/HaeGwangS"><b>SeoHaeGwang</b></a></td>
+    <td align="center"><a href="https://github.com/hks0704"><b>SeoHaeGwang</b></a></td>
     <td align="center"><a href="https://github.com/NoRuTnT"><b>MoonJunHyeong</b></a></td>
   </tr>
   <tr> 
@@ -38,7 +38,7 @@
   
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
-|**1주차**|08.30. ~ 09.06.|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
+|**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)||||
 </details>
 
 <details>
