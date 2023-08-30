@@ -1,8 +1,9 @@
 ## 📘 스터디 규칙
 1. 매주 화요일 오후 7시 대면 스터디 진행
-2. 매주 3개의 문제를 풀이
-3. 본인 코드 설명은 템플릿을 참고하여 `README.md`에 기록
-4. 다른 사람의 코드를 보고 코드 리뷰할 것이 있으면 PR에 코멘트 남기기
+2. 1인당 한문제 등록
+3. 매주 4개의 문제를 풀이
+4. 본인 코드 설명은 템플릿을 참고하여 `README.md`에 기록
+5. 다른 사람의 코드를 보고 코드 리뷰할 것이 있으면 PR에 코멘트 남기기
 <br>
 
 ## 📘 스터디 멤버
@@ -38,13 +39,9 @@
 <summary>1주차 ~ 10주차</summary>
 <br>
   
-||날짜|알고리즘|출처|문제1|문제2|문제3|문제4|
-|--|--|--|--|--|--|--|--|
-|**1주차**|03.01. ~ 03.07.|분할 정복|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
-|**1주차**|03.01. ~ 03.07.|분할 정복|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
-|**1주차**|03.01. ~ 03.07.|분할 정복|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
-|**1주차**|03.01. ~ 03.07.|분할 정복|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
-|**1주차**|03.01. ~ 03.07.|분할 정복|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
+||날짜|출처|문제1|문제2|문제3|문제4|
+|--|--|--|--|--|--|--|
+|**1주차**|03.01. ~ 03.07.|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|[쿼드트리](https://www.acmicpc.net/problem/1992)|
 </details>
 
 <br>
