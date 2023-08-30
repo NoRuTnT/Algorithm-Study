@@ -38,7 +38,7 @@
   
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
-|**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)||||
+|**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|||
 </details>
 
 <details>
