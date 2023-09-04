@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MaSeongJin"><b>MaSeongJin</b></a></td>
-    <td align="center"><a href="https://github.com/tykim97"><b>kimTaeYune</b></a></td>
+    <td align="center"><a href="https://github.com/tykim97"><b>KimTaeYun</b></a></td>
     <td align="center"><a href="https://github.com/hks0704"><b>SeoHaeGwang</b></a></td>
     <td align="center"><a href="https://github.com/NoRuTnT"><b>MoonJunHyeong</b></a></td>
   </tr>
@@ -47,8 +47,8 @@
   
 |날짜|올린사람|출처|문제|마성진|김태윤|문준형|서해광|
 |--|--|--|--|--|--|--|--|
-|23/08/30|마성진|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|❌|❌|❌|❌|
-|23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|❌|❌|❌|❌|
+|23/08/30|마성진|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|❌|✅|❌|❌|
+|23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|❌|✅|❌|❌|
 </details>
 <!-- ✅  ❌ -->
 <br>
