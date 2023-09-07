@@ -38,7 +38,8 @@
   
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
-|**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[직각삼각형](https://www.acmicpc.net/problem/1711)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|
+|**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[직각삼각형](https://www.acmicpc.net/problem/1711)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|  
+|**2주차**|09.07. ~ 09.13.|백준|[가운데를 말해요](https://www.acmicpc.net/problem/1655)||||
 </details>
 
 <details>
@@ -48,7 +49,7 @@
 |날짜|올린사람|출처|문제|마성진|김태윤|문준형|서해광|
 |--|--|--|--|--|--|--|--|
 |23/08/30|마성진|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|✅|✅|❌|❌|
-|23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|❌|✅|❌|✅|
+|23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|❌|✅|✅|✅|
 </details>
 <!-- ✅  ❌ -->
 <br>
