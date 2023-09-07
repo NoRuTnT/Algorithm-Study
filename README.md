@@ -39,7 +39,7 @@
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
 |**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[직각삼각형](https://www.acmicpc.net/problem/1711)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|
-|**2주차**|09.07. ~ 09.13.|백준|[치킨 배달](https://www.acmicpc.net/problem/15686)|[너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)||
+|**2주차**|09.07. ~ 09.13.|백준|[치킨 배달](https://www.acmicpc.net/problem/15686)|[너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[테트로미노](https://www.acmicpc.net/problem/14500)|
 
 </details>
 
