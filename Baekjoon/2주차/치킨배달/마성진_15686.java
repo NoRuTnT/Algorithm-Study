@@ -43,14 +43,13 @@ public class Main {
 			}
 		}
 		node[] arr = new node[M];
-		boolean[] visited = new boolean[chicken.size()];
-		perm(0, 0, arr, visited);
+		perm(0, 0, arr);
 
 		System.out.println(result);
 
 	}
 
-	public static void perm(int depth, int start, node[] arr, boolean[] visited) {
+	public static void perm(int depth, int start, node[] arr) {
 		if (depth == M) {
 			int cnt = 0;
 			for (int i = 0; i < person.size(); i++) {
@@ -65,10 +64,8 @@ public class Main {
 		}
 
 		for (int i = start; i < chicken.size(); i++) {
-			visited[i] = true;
 			arr[depth] = chicken.get(i);
-			perm(depth + 1, i + 1, arr, visited);
-			visited[i] = false;
+			perm(depth + 1, i + 1, arr);
 		}
 
 	}
