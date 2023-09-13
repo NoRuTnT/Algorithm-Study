@@ -40,6 +40,7 @@
 |--|--|--|--|--|--|--|
 |**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[직각삼각형](https://www.acmicpc.net/problem/1711)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|
 |**2주차**|09.07. ~ 09.13.|백준|[치킨 배달](https://www.acmicpc.net/problem/15686)|[너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[테트로미노](https://www.acmicpc.net/problem/14500)|
+|**3주차**|09.14. ~ 09.20.|백준|[전깃줄](https://www.acmicpc.net/problem/2565)||||
 
 </details>
 
@@ -51,6 +52,7 @@
 |--|--|--|--|--|--|--|--|
 |23/08/30|마성진|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|✅|✅|❌|✅|
 |23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|✅|✅|✅|✅|
+|23/09/14|김태윤|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|❌|✅|❌|❌|
 
 </details>
 <!-- ✅  ❌ -->
