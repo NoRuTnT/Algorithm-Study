@@ -41,7 +41,7 @@
 |**1주차**|08.30. ~ 09.06.|백준|[연구소](https://www.acmicpc.net/problem/14502)|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[직각삼각형](https://www.acmicpc.net/problem/1711)|[숨바꼭질 2](https://www.acmicpc.net/problem/12851)|
 |**2주차**|09.07. ~ 09.13.|백준|[치킨 배달](https://www.acmicpc.net/problem/15686)|[너 봄에는 캡사이신이 맛있단다](https://www.acmicpc.net/problem/15824)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[테트로미노](https://www.acmicpc.net/problem/14500)|
 |**3주차**|09.14. ~ 09.20.|백준|[전깃줄](https://www.acmicpc.net/problem/2565)|[감시](https://www.acmicpc.net/problem/15683)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|
-|**4주차**|09.21. ~ 09.26.|백준|[아기 상어](https://www.acmicpc.net/problem/16236)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|||
+|**4주차**|09.21. ~ 09.26.|백준|[아기 상어](https://www.acmicpc.net/problem/16236)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)||
 
 </details>
 
@@ -53,7 +53,7 @@
 |--|--|--|--|--|--|--|--|
 |23/08/30|마성진|백준|[종이의 개수](https://www.acmicpc.net/problem/1780)|✅|✅|❌|✅|
 |23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|✅|✅|✅|✅|
-|23/09/14|김태윤|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|❌|✅|❌|❌|
+|23/09/14|김태윤|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|✅|✅|❌|❌|
 |23/09/14|서해광|백준|[RGB거리](https://www.acmicpc.net/problem/1149)|❌|✅|❌|❌|
 
 </details>
@@ -62,6 +62,9 @@
 
 ## 📘 폴더 구조
 [문제 출처] / [알고리즘명] / [문제 제목] / [이름]
+<br><br>
+## 📘 못푼 문제가 있을 경우
+스터디 발표가 진행되는 날 사다리타기로 발표할 문제를 선정할 때 만약 자신이 안푼 문제가 발표로 걸린다면 다음날 스터디원들에게 커피 돌리기
 <br><br>
 
 ## 📘 깃허브 사용법
