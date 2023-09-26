@@ -55,6 +55,7 @@
 |23/08/31|문준형|백준|[행복 유치원](https://www.acmicpc.net/problem/13164)|✅|✅|✅|✅|
 |23/09/14|김태윤|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|✅|✅|❌|❌|
 |23/09/14|서해광|백준|[RGB거리](https://www.acmicpc.net/problem/1149)|❌|✅|❌|❌|
+|23/09/26|마성진|백준|[가스관](https://www.acmicpc.net/problem/2931)|❌|❌|❌|❌|
 
 </details>
 <!-- ✅  ❌ -->
