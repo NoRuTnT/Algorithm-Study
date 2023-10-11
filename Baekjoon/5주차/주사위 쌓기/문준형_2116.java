@@ -22,7 +22,7 @@ public class b2116 {
 		}//입력
 		
 		int max=-1; //최댓값저장용
-		for(int start=1;start<=6;start++) { //맨밑주사위 윗몉이 1~6일때
+		for(int start=1;start<=6;start++) { //맨밑주사위 윗면이 1~6일때
 			int upnum=start; //윗면변수
 			int save=0;	//밑면변수
 			int a= numlist.get(0).indexOf(upnum); //윗면인덱스를 통해서
