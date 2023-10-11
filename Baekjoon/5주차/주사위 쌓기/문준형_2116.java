@@ -26,7 +26,7 @@ public class b2116 {
 			int upnum=start; //윗면변수
 			int save=0;	//밑면변수
 			int a= numlist.get(0).indexOf(upnum); //윗면인덱스를 통해서
-			if(a==0) {							  //첫주사위 아랫면의 숫자를 설명해놓음
+			if(a==0) {				  //첫주사위 아랫면의 숫자를 설정해놓음
 				save=(int) numlist.get(0).get(5);
 			}else if(a==1) {
 				save=(int) numlist.get(0).get(3);
