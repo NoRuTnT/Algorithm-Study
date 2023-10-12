@@ -43,6 +43,8 @@
 |**3주차**|09.14. ~ 09.20.|백준|[전깃줄](https://www.acmicpc.net/problem/2565)|[감시](https://www.acmicpc.net/problem/15683)|[캐슬 디펜스](https://www.acmicpc.net/problem/17135)|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|
 |**4주차**|09.21. ~ 09.27.|백준|[아기 상어](https://www.acmicpc.net/problem/16236)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)|
 |**5주차**|10.05. ~ 10.11.|백준|[내리막 길](https://www.acmicpc.net/problem/1520)|[주사위 쌓기](https://www.acmicpc.net/problem/2116)|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[소수의 연속합](https://www.acmicpc.net/problem/1644)|
+|**6주차**|10.12. ~ 10.18.|백준|[여행 가자](https://www.acmicpc.net/problem/1976)||||
+
 
 </details>
 
