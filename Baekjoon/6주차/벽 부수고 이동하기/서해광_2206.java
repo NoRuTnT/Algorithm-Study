@@ -1,3 +1,5 @@
+// 벽을 부수고 새로운 bfs로 재귀호출 하는 방식은
+// 아무리 백트래킹 해도 18퍼센트에서 시간초과 발생
 // 2206. 벽 부수고 이동하기
 import java.io.BufferedReader;
 import java.io.IOException;
