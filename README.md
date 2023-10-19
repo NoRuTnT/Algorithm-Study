@@ -44,6 +44,7 @@
 |**4주차**|09.21. ~ 09.27.|백준|[아기 상어](https://www.acmicpc.net/problem/16236)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[괄호 추가하기](https://www.acmicpc.net/problem/16637)|
 |**5주차**|10.05. ~ 10.11.|백준|[내리막 길](https://www.acmicpc.net/problem/1520)|[주사위 쌓기](https://www.acmicpc.net/problem/2116)|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[소수의 연속합](https://www.acmicpc.net/problem/1644)|
 |**6주차**|10.12. ~ 10.18.|백준|[여행 가자](https://www.acmicpc.net/problem/1976)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[ACM Craft](https://www.acmicpc.net/problem/1005)|
+|**7주차**|10.19. ~ 10.25.|백준|[줄 세우기](https://www.acmicpc.net/problem/2252)||||
 
 
 </details>
