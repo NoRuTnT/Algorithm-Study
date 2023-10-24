@@ -8,26 +8,13 @@
 
 ## 📘 스터디 멤버
 
-<table>
- <tr>
-    <td align="center"><a href="https://github.com/MaSeongJin"><img src="https://avatars.githubusercontent.com/MaSeongJin" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/tykim97"><img src="https://avatars.githubusercontent.com/tykim97" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/hks0704"><img src="https://avatars.githubusercontent.com/hks0704" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/NoRuTnT"><img src="https://avatars.githubusercontent.com/NoRuTnT" width="130px;" alt=""></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/MaSeongJin"><b>MaSeongJin</b></a></td>
-    <td align="center"><a href="https://github.com/tykim97"><b>KimTaeYun</b></a></td>
-    <td align="center"><a href="https://github.com/hks0704"><b>SeoHaeGwang</b></a></td>
-    <td align="center"><a href="https://github.com/NoRuTnT"><b>MoonJunHyeong</b></a></td>
-  </tr>
-  <tr> 
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-    <td align="center"><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></td>
-  </tr> 
-</table>
+|마성진|김태윤|서해광|문준형|
+|:--:|:--:|:--:|:--:|
+|<a href="https://github.com/MaSeongJin"><img src="https://avatars.githubusercontent.com/MaSeongJin" width="130px;" alt=""></a>|<a href="https://github.com/tykim97"><img src="https://avatars.githubusercontent.com/tykim97" width="130px;" alt=""></a>|<a href="https://github.com/hks0704"><img src="https://avatars.githubusercontent.com/hks0704" width="130px;" alt=""></a>|<a href="https://github.com/NoRuTnT"><img src="https://avatars.githubusercontent.com/NoRuTnT" width="130px;" alt=""></a>|
+|<a href="https://github.com/MaSeongJin"><b>MaSeongJin</b></a>|<a href="https://github.com/tykim97"><b>KimTaeYun</b></a>|<a href="https://github.com/hks0704"><b>SeoHaeGwang</b></a>|<a href="https://github.com/NoRuTnT"><b>MoonJunHyeong</b></a>|
+|<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">|<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">|<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">|<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">|
+|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=making1104)](https://solved.ac/making1104)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whddn0426)](https://solved.ac/whddn0426)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=blackmary)](https://solved.ac/blackmary)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=moonabcd)](https://solved.ac/moonabcd)|
+
 
 <br/>
 
