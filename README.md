@@ -32,7 +32,7 @@
 |**5주차**|10.05. ~ 10.11.|백준|[내리막 길](https://www.acmicpc.net/problem/1520)|[주사위 쌓기](https://www.acmicpc.net/problem/2116)|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[소수의 연속합](https://www.acmicpc.net/problem/1644)|
 |**6주차**|10.12. ~ 10.18.|백준|[여행 가자](https://www.acmicpc.net/problem/1976)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[ACM Craft](https://www.acmicpc.net/problem/1005)|
 |**7주차**|10.19. ~ 10.25.|백준|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[줄 세우기](https://www.acmicpc.net/problem/2252)|[스티커 붙이기](https://www.acmicpc.net/problem/18808)|[제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)|
-|**8주차**|10.26. ~ 11.01.|백준|[구슬 탈출2](https://www.acmicpc.net/problem/13460)||||
+|**8주차**|10.26. ~ 11.01.|백준|[구슬 탈출2](https://www.acmicpc.net/problem/13460)|[암호코드](https://www.acmicpc.net/problem/2011)|||
 
 
 </details>
