@@ -1,14 +1,32 @@
-//DFS, 예제 1~5번 && 제출 시 1%까지만 맞는 오답
+// BFS, 성진 코드 참조
 
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
 
 public class 김태윤_13460 {
-	static class pos{
+	//구슬 1개의 위치
+	static class Pos{
 		int r;
 		int c;
-		pos(int r, int c){
+		Pos(int r, int c){
 			this.r=r;
 			this.c=c;
+		}
+	}
+	//구슬 2개 정보
+	static class Pair{
+		Pos red;
+		Pos blue;
+		int dir; // 이전 이동의 방향 => 탐색할 필요 없음
+		int reverse; // 이전 이동의 반대 방향 => 탐색할 필요 없음
+		int move; // 이동 횟수
+		Pair (Pos red, Pos blue, int dir, int reverse, int move){
+			this.red=red;
+			this.blue=blue;
+			this.dir=dir;
+			this.reverse=reverse;
+			this.move = move;
 		}
 	}
 	static char[][] board;
@@ -16,15 +34,17 @@ public class 김태윤_13460 {
 	static int m;
 	static int[] dr= {1,-1,0,0};
 	static int[] dc= {0,0,1,-1};
-	static pos red;
-	static pos blue;
+	static Pos red;
+	static Pos blue;
+	static Pos end;
 	static int ans = 11;
 	public static void main(String[] args) {
 		input();
-		dfs(1, red, blue, -1, -1); // depth, red blue 위치, 이전 이동 방향
+		bfs();
 		output();
 	}
 	public static void input() {
+		// board에 입력받고, red, blue, end의 위치 갱신
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
 		m=sc.nextInt();
@@ -32,8 +52,9 @@ public class 김태윤_13460 {
 		for(int i=0;i<n;i++) {
 			board[i]=sc.next().toCharArray();
 			for(int j=0;j<m;j++) {
-				if(board[i][j]=='R') red = new pos(i,j);
-				else if(board[i][j]=='B') blue = new pos(i,j);
+				if(board[i][j]=='R') red = new Pos(i,j);
+				else if(board[i][j]=='B') blue = new Pos(i,j);
+				else if(board[i][j]=='O') end = new Pos(i,j);
 			}
 		}
 		sc.close();
@@ -42,87 +63,86 @@ public class 김태윤_13460 {
 		if(ans==11) System.out.println(-1);
 		else System.out.println(ans);
 	}
-	public static void dfs(int depth, pos currRed, pos currBlue, int before, int again) {
-		if(depth >= ans) { // 백트래킹
-			return;
+	public static void bfs() {
+		Queue<Pair> queue = new LinkedList<>();
+		queue.offer(new Pair(red, blue, 4, 4, 0));
+		while(!queue.isEmpty() || ans < 11) { // 답이 나오면 더 이상 필요가 없다.
+			Pair curr = queue.poll();
+			if(curr.move>10) break; // 이동 횟수가 10회 넘어가면 break 
+			for(int k=0;k<4;k++) {
+				if(curr.dir==k || curr.reverse==k) continue; // 탐색할 필요 없는 것들
+				boolean moveRed=true, moveBlue=true; // false가 될 때까지 이동한다
+				boolean hole=false; // hole에 들어갈 수 있는 경우
+				Pos currRed=new Pos(curr.red.r,curr.red.c);
+				Pos currBlue=new Pos(curr.blue.r,curr.blue.c);
+				//1) 빨간색 일단 이동
+				while(moveRed) {
+					if(currRed.r+dr[k]==currBlue.r && currRed.c+dc[k]==currBlue.c) {
+						moveRed=false;
+					}
+					else if(board[currRed.r+dr[k]][currRed.c+dc[k]]!='#') {
+						currRed.r+=dr[k];
+						currRed.c+=dc[k];
+						if(board[currRed.r][currRed.c]=='O') {
+							hole = true;
+							moveRed=false; // O에 도달한 경우 더 이상 이동 X
+							currRed.r=-1; //2번에서 이동 제약조건 안 걸리도록
+						}
+					}
+					else moveRed=false; // #인 경우
+				}
+				
+				//2) 파란색 이동
+				while(moveBlue) {
+					if(currBlue.r+dr[k]==currRed.r && currBlue.c+dc[k]==currRed.c) {
+						moveBlue=false;
+					}
+					else if(board[currBlue.r+dr[k]][currBlue.c+dc[k]]!='#') {
+						currBlue.r+=dr[k];
+						currBlue.c+=dc[k];
+						if(board[currBlue.r][currBlue.c]=='O') {
+							hole=false;
+							moveBlue=false;
+							//이번에는 O에 딱 세워놓기 위해서 currBlue 값 변경 안한다.
+						}
+					}
+					else moveBlue = false; // #인 경우
+				}
+				
+				//3) 빨간색 다시 이동
+				moveRed=true;
+				while(!hole && moveRed) {
+					if(currRed.r==-1) break; // 골인 성공한 경우
+					if(currRed.r+dr[k]==currBlue.r && currRed.c+dc[k]==currBlue.c) {
+						moveRed=false;
+					}
+					else if(board[currRed.r+dr[k]][currRed.c+dc[k]]!='#') {
+						currRed.r+=dr[k];
+						currRed.c+=dc[k];
+						if(board[currRed.r][currRed.c]=='O') {
+							hole = true;
+							moveRed=false; // O에 도달한 경우 더 이상 이동 X
+							currRed.r=-1; //2번에서 이동 제약조건 안 걸리도록
+						}
+					}
+					else moveRed=false; // #인 경우
+				}
+				if(hole) {
+					ans=curr.move+1; // 현재 저장된거에서 한번 더 이동
+					return; // 가장 최근에 꺼낸거일테니까 더 이상 탐색할 필요가 없다.
+				}
+				if(board[currBlue.r][currBlue.c]=='O') continue; 
+				// 파란게 홀에 들어간 경우 queue에 넣을 필요 없다
+				
+				queue.offer(new Pair(currRed, currBlue, k, reverse(k), curr.move+1));
+			}//for k end
 		}
-		
-		for(int k=0;k<4;k++) {
-			if(k==before || k == again) continue; // 이미 한번한 방향 or 왔던 방향 배제
-			
-			boolean moveRed = true;
-			boolean moveBlue = true;
-			
-			pos movingRed = currRed;
-			pos movingBlue = currBlue;
-			
-			boolean flag=false;
-			
-			while(moveRed || moveBlue) { // 둘 다 이동 불가능할 때 까지 계속 돌린다
-				//가장 바깥쪽은 전부 #으로 되어 있으니 경계조건은 고려하지 않아도 된다.
-				
-				pos nextRed = new pos(movingRed.r+dr[k], movingRed.c+dc[k]);
-				pos nextBlue = new pos(movingBlue.r+dr[k], movingBlue.c+dc[k]);
-				
-				//1) 빨간색 움직이기
-				if(board[nextRed.r][nextRed.c]=='.') {
-					swap(movingRed, nextRed); // R과 .을 옮긴다
-					moveRed = true;
-					movingRed = nextRed; // 다음에는 이 위치에 있다.
-					flag=true;
-				}
-				else if(board[nextRed.r][nextRed.c]=='O') {
-					
-					// 빨간게 O에 도착하면 성공, 그러나
-					// blue 도 hole에 들어갈 수 있는지의 판단이 필요하다
-					// 아직 이거는 미구현 상태. 그냥 빨간거 들어가게만 하면 return 되도록 구현했다.
-					
-					//배열 원상복구
-					swap(movingRed, currRed);
-					swap(movingBlue, currBlue);
-					//값 update
-					if(ans>depth) ans=depth;
-					return;
-					
-				}
-				else {
-					moveRed = false; // 못 움직였음
-				}
-				
-				//2) 파란색 움직이기
-				if(board[nextBlue.r][nextBlue.c]=='.') {
-					swap(movingBlue, nextBlue);
-					moveBlue = true;
-					movingBlue = nextBlue;
-					flag=true;
-				}
-				else if(board[nextBlue.r][nextBlue.c]=='O') {
-					// 있어선 안 될 일임 => 다음 for문으로 돌도록 원상 복구 시켜놔야 함
-					swap(movingRed, currRed);
-					swap(movingBlue, currBlue);
-					continue;
-				}
-				else {
-					moveBlue = false;
-				}
-			}// while end
-			
-			// depth 높여서 현재 이동한 곳이 다음 스타팅 포인트가 된다 
-			// 변화가 있던 경우만 dfs 타게 만들자 continue
-			if(flag) {
-				dfs(depth+1, movingRed, movingBlue, k, reverse(k));	
-			}
-		} // k end
 	}
-	public static void swap(pos curr, pos next) {
-		board[next.r][next.c]=board[curr.r][curr.c];
-		board[curr.r][curr.c]='.';
-	}
-	public static int reverse(int k) {
-		if(k==0) return 1;
-		if(k==1) return 0;
-		if(k==2) return 3;
-		if(k==3) return 2;
+	public static int reverse(int dir) {
+		if(dir==0) return 1;
+		if(dir==1) return 0;
+		if(dir==2) return 3;
+		if(dir==3) return 2;
 		return -1;
 	}
 }
