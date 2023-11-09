@@ -34,7 +34,7 @@
 |**7주차**|10.19. ~ 10.25.|백준|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[줄 세우기](https://www.acmicpc.net/problem/2252)|[스티커 붙이기](https://www.acmicpc.net/problem/18808)|[제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016)|
 |**8주차**|10.26. ~ 11.01.|백준|[구슬 탈출2](https://www.acmicpc.net/problem/13460)|[암호코드](https://www.acmicpc.net/problem/2011)|[도시 분할 계획](https://www.acmicpc.net/problem/1647)|[트리의 지름](https://www.acmicpc.net/problem/1967)|
 |**9주차**|11.02. ~ 11.08.|백준|[보석 도둑](https://www.acmicpc.net/problem/1202)|[전화번호 목록](https://www.acmicpc.net/problem/5052)|[Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)|[철도 공사](https://www.acmicpc.net/problem/23309)|
-|**10주차**|11.09. ~ 11.15.|백준|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)||||
+|**10주차**|11.09. ~ 11.15.|백준|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[치즈](https://www.acmicpc.net/problem/2638)|||
 
 
 </details>
