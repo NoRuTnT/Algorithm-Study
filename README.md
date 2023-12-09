@@ -44,7 +44,7 @@
   
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
-|**11주차**|12.06. ~ 12.13|백준|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)||||
+|**11주차**|12.06. ~ 12.13|백준|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|||
 
 
 
