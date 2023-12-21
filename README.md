@@ -45,7 +45,7 @@
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
 |**11주차**|12.14. ~ 12.20|백준|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|[LCS](https://www.acmicpc.net/problem/9251)|[등차수열](https://www.acmicpc.net/problem/1994)|
-|**12주차**|12.21. ~ 12.27|백준|[사이클 게임](https://www.acmicpc.net/problem/20040)|[비숍](https://www.acmicpc.net/problem/1799)|[불](https://www.acmicpc.net/problem/5427)||
+|**12주차**|12.21. ~ 12.27|백준|[사이클 게임](https://www.acmicpc.net/problem/20040)|[비숍](https://www.acmicpc.net/problem/1799)|[불](https://www.acmicpc.net/problem/5427)|[주간 미팅](https://www.acmicpc.net/problem/12834)|
 
 
 </details>
