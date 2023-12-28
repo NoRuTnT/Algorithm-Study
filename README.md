@@ -46,7 +46,7 @@
 |--|--|--|--|--|--|--|
 |**11주차**|12.14. ~ 12.20|백준|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|[LCS](https://www.acmicpc.net/problem/9251)|[등차수열](https://www.acmicpc.net/problem/1994)|
 |**12주차**|12.21. ~ 12.27|백준|[사이클 게임](https://www.acmicpc.net/problem/20040)|[비숍](https://www.acmicpc.net/problem/1799)|[불](https://www.acmicpc.net/problem/5427)|[주간 미팅](https://www.acmicpc.net/problem/12834)|
-|**13주차**|12.28. ~ 1.3|백준|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[세 용액](https://www.acmicpc.net/problem/2473)||
+|**13주차**|12.28. ~ 1.3|백준|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[세 용액](https://www.acmicpc.net/problem/2473)|[트리의 순회](https://www.acmicpc.net/problem/2263)|
 
 </details>
 
