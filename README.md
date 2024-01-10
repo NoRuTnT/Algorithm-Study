@@ -52,7 +52,6 @@
 |**12주차**|12.21. ~ 12.27|백준|[사이클 게임](https://www.acmicpc.net/problem/20040)|[비숍](https://www.acmicpc.net/problem/1799)|[불](https://www.acmicpc.net/problem/5427)|[주간 미팅](https://www.acmicpc.net/problem/12834)|
 |**13주차**|12.28. ~ 01.03|백준|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[세 용액](https://www.acmicpc.net/problem/2473)|[트리의 순회](https://www.acmicpc.net/problem/2263)|
 |**14주차**|01.04. ~ 01.10|백준|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[XYZ 문자열](https://www.acmicpc.net/problem/1663)|[라라와 용맥 변환](https://www.acmicpc.net/problem/29793)|
-
 </details>
 
 <details>
@@ -61,7 +60,7 @@
   
 ||날짜|출처|문제1|문제2|문제3|
 |--|--|--|--|--|--|
-|**15주차**|01.11. ~ 01.17|백준||||
+|**15주차**|01.11. ~ 01.17|백준|[동전 분배](https://www.acmicpc.net/problem/1943)|||
 
 
 </details>
