@@ -4,7 +4,11 @@
 3. 문제집에 문제 등록 후 `README.md`에 기록
 4. 매주 최소 4개의 문제를 풀이
 5. 그 외에 푼 문제 중 남들어 풀어봤으면 좋겠다하는 문제들은 추가 문제에 업로드
-<br>
+
+### 수정(문제 수 한 문제 줄임)
+1. 스터디 끝난 후 문제 낼 사람 3명 뽑기
+2. 3명이 한 문제 씩 총 3문제 등록
+3. 발표도 사다리타기로 3명이 발표
 
 ## 📘 스터디 멤버
 
@@ -39,15 +43,26 @@
 </details>
 
 <details>
-<summary>11주차 ~ 20주차</summary>
+<summary>11주차 ~ 14주차</summary>
 <br>
   
 ||날짜|출처|문제1|문제2|문제3|문제4|
 |--|--|--|--|--|--|--|
 |**11주차**|12.14. ~ 12.20|백준|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|[LCS](https://www.acmicpc.net/problem/9251)|[등차수열](https://www.acmicpc.net/problem/1994)|
 |**12주차**|12.21. ~ 12.27|백준|[사이클 게임](https://www.acmicpc.net/problem/20040)|[비숍](https://www.acmicpc.net/problem/1799)|[불](https://www.acmicpc.net/problem/5427)|[주간 미팅](https://www.acmicpc.net/problem/12834)|
-|**13주차**|12.28. ~ 1.3|백준|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[세 용액](https://www.acmicpc.net/problem/2473)|[트리의 순회](https://www.acmicpc.net/problem/2263)|
-|**13주차**|1.4. ~ 1.10|백준|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[XYZ 문자열](https://www.acmicpc.net/problem/1663)|[라라와 용맥 변환](https://www.acmicpc.net/problem/29793)|
+|**13주차**|12.28. ~ 01.03|백준|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|[세 용액](https://www.acmicpc.net/problem/2473)|[트리의 순회](https://www.acmicpc.net/problem/2263)|
+|**14주차**|01.04. ~ 01.10|백준|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[XYZ 문자열](https://www.acmicpc.net/problem/1663)|[라라와 용맥 변환](https://www.acmicpc.net/problem/29793)|
+
+</details>
+
+<details>
+<summary>15주차 ~ 20주차</summary>
+<br>
+  
+||날짜|출처|문제1|문제2|문제3|
+|--|--|--|--|--|--|
+|**15주차**|01.11. ~ 01.17|백준||||
+
 
 </details>
 
