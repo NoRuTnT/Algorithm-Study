@@ -60,7 +60,7 @@
   
 ||날짜|출처|문제1|문제2|문제3|
 |--|--|--|--|--|--|
-|**15주차**|01.11. ~ 01.17|백준|[동전 분배](https://www.acmicpc.net/problem/1943)|||
+|**15주차**|01.11. ~ 01.17|백준|[동전 분배](https://www.acmicpc.net/problem/1943)|[낚시왕](https://www.acmicpc.net/problem/17143)||
 
 
 </details>
