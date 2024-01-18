@@ -61,7 +61,7 @@
 ||날짜|출처|문제1|문제2|문제3|
 |--|--|--|--|--|--|
 |**15주차**|01.11. ~ 01.17|백준|[동전 분배](https://www.acmicpc.net/problem/1943)|[낚시왕](https://www.acmicpc.net/problem/17143)|[인간 대포](https://www.acmicpc.net/problem/10473)|
-|**16주차**|01.18. ~ 01.24|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)||
+|**16주차**|01.18. ~ 01.24|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
 
 
 </details>
