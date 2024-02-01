@@ -63,6 +63,7 @@
 |**15주차**|01.11. ~ 01.17|백준|[동전 분배](https://www.acmicpc.net/problem/1943)|[낚시왕](https://www.acmicpc.net/problem/17143)|[인간 대포](https://www.acmicpc.net/problem/10473)|
 |**16주차**|01.18. ~ 01.24|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
 |**17주차**|01.25. ~ 01.31|백준|[스도쿠](https://www.acmicpc.net/problem/2239)|[다리 만들기](https://www.acmicpc.net/problem/2146)|[히스토그램](https://www.acmicpc.net/problem/1725)|
+|**18주차**|02.01. ~ 01.07|백준|[문제집](https://www.acmicpc.net/problem/1766)|||
 
 
 </details>
