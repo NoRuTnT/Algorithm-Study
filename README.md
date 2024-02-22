@@ -64,7 +64,8 @@
 |**16주차**|01.18. ~ 01.24|백준|[게리맨더링](https://www.acmicpc.net/problem/17471)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
 |**17주차**|01.25. ~ 01.31|백준|[스도쿠](https://www.acmicpc.net/problem/2239)|[다리 만들기](https://www.acmicpc.net/problem/2146)|[히스토그램](https://www.acmicpc.net/problem/1725)|
 |**18주차**|02.01. ~ 01.07|백준|[문제집](https://www.acmicpc.net/problem/1766)|[오큰수](https://www.acmicpc.net/problem/17298)|[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|
-|**19주차**|02.08. ~ 02.14|백준|[오아시스 재결합](https://www.acmicpc.net/problem/3015)|[앱](https://www.acmicpc.net/problem/7579)|[문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)|
+|**19주차**|02.08. ~ 02.21|백준|[오아시스 재결합](https://www.acmicpc.net/problem/3015)|[앱](https://www.acmicpc.net/problem/7579)|[문제 추천 시스템 Version 2](https://www.acmicpc.net/problem/21944)|
+|**19주차**|02.22. ~ 02.28|백준|[본대 산책2](https://www.acmicpc.net/problem/12850)|||
 
 
 </details>
