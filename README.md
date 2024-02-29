@@ -76,7 +76,7 @@
   
 ||날짜|출처|문제1|문제2|문제3|
 |--|--|--|--|--|--|
-|**21주차**|02.29. ~ 03.06|백준|[철로](https://www.acmicpc.net/problem/13334)|[통나무 자르기](https://www.acmicpc.net/problem/1114)||
+|**21주차**|02.29. ~ 03.06|백준|[철로](https://www.acmicpc.net/problem/13334)|[통나무 자르기](https://www.acmicpc.net/problem/1114)|[레이저 통신](https://www.acmicpc.net/problem/6087)|
 </details>
 
 <details>
