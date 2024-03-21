@@ -79,7 +79,7 @@
 |**21주차**|02.29. ~ 03.06|백준|[철로](https://www.acmicpc.net/problem/13334)|[통나무 자르기](https://www.acmicpc.net/problem/1114)|[레이저 통신](https://www.acmicpc.net/problem/6087)|
 |**22주차**|03.07. ~ 03.13|백준|[디스크 트리](https://www.acmicpc.net/problem/7432)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|
 |**23주차**|03.14. ~ 03.20|백준|[개미굴](https://www.acmicpc.net/problem/14725)|[탑](https://www.acmicpc.net/problem/2493)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|
-|**24주차**|03.21. ~ 03.27|백준|[N포커](https://www.acmicpc.net/problem/16565)|||
+|**24주차**|03.21. ~ 03.27|백준|[N포커](https://www.acmicpc.net/problem/16565)|[입국심사](https://www.acmicpc.net/problem/3079)||
 </details>
 
 <details>
