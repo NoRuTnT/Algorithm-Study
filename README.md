@@ -80,7 +80,7 @@
 |**22주차**|03.07. ~ 03.13|백준|[디스크 트리](https://www.acmicpc.net/problem/7432)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[별 찍기 - 10](https://www.acmicpc.net/problem/2447)|
 |**23주차**|03.14. ~ 03.20|백준|[개미굴](https://www.acmicpc.net/problem/14725)|[탑](https://www.acmicpc.net/problem/2493)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|
 |**24주차**|03.21. ~ 03.27|백준|[N포커](https://www.acmicpc.net/problem/16565)|[입국심사](https://www.acmicpc.net/problem/3079)|[면접보는 승범이네](https://www.acmicpc.net/problem/17835)|
-|**25주차**|04.11. ~ 04.17|백준|[인구 이동](https://www.acmicpc.net/problem/16234)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)||
+|**25주차**|04.11. ~ 04.17|백준|[인구 이동](https://www.acmicpc.net/problem/16234)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|[IQ Test](https://www.acmicpc.net/problem/1111)|
 </details>
 
 <details>
