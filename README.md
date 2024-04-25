@@ -82,6 +82,7 @@
 |**24주차**|03.21. ~ 03.27|백준|[N포커](https://www.acmicpc.net/problem/16565)|[입국심사](https://www.acmicpc.net/problem/3079)|[면접보는 승범이네](https://www.acmicpc.net/problem/17835)|
 |**25주차**|04.11. ~ 04.17|백준|[인구 이동](https://www.acmicpc.net/problem/16234)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|[IQ Test](https://www.acmicpc.net/problem/1111)|
 |**26주차**|04.18. ~ 04.24|백준|[구간 곱 구하기](https://www.acmicpc.net/problem/11505)|[부분합](https://www.acmicpc.net/problem/1806)|[컬러볼](https://www.acmicpc.net/problem/10800)|
+|**27주차**|04.25. ~ 04.30|백준|[보물섬](https://www.acmicpc.net/problem/2589)|||
 </details>
 
 <details>
